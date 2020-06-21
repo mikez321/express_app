@@ -1,5 +1,5 @@
 # Express Yourself
-_You've got to make it! hey hey hey hey_
+_(You've got to make it! hey hey hey hey)_
 
 ##Turing tutorial of Node and Express##
 _Original lesson can be found here: https://frontend.turing.io/lessons/module-4/knex-postgres.html_
