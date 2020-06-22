@@ -1,7 +1,8 @@
 # Express Yourself
 _(You've got to make it! hey hey hey hey)_
 
-##Turing tutorial of Node and Express##
+### Turing tutorial of Node and Express
+
 _Original lesson can be found here: https://frontend.turing.io/lessons/module-4/knex-postgres.html_
 
 This is an app from the Turing school's lessons on creating an Express app, using Knex to interface with a PSQL database all being run on an Express server.
