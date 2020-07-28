@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/mikez321/express_app.svg)](http://hits.dwyl.com/mikez321/express_app)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmikez321%2Fexpress_app)](https://hits.seeyoufarm.com)
 
 # Express Yourself
 _(You've got to make it! hey hey hey hey)_
