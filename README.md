@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/mikez321/express_app.svg)](http://hits.dwyl.com/mikez321/express_app)
+
 # Express Yourself
 _(You've got to make it! hey hey hey hey)_
 
